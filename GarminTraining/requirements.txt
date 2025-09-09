@@ -1,0 +1,2 @@
+garminconnect>=0.1.55
+click>=8.1.0 
