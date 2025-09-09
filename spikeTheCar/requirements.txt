@@ -1,0 +1,5 @@
+numpy>=1.23
+opencv-python>=4.8
+# carla is often provided by the simulator EGG; install via pip if available:
+# carla==0.9.15
+
