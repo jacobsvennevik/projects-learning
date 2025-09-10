@@ -1,0 +1,6 @@
+title = 'Gitleaks Config'
+[extend]
+useDefault = true
+
+[allowlist]
+files = [".gitignore"]
